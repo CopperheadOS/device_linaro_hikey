@@ -1,0 +1,1 @@
+# device_linaro_hikey
